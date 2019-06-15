@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Single-cell RNA-seq on Huidong Chen</title>
+    <link>https://huidongchen.github.io/tags/single-cell-rna-seq/</link>
+    <description>Recent content in Single-cell RNA-seq on Huidong Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Huidong Chen {year}</copyright>
+    <lastBuildDate>Tue, 23 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://huidongchen.github.io/tags/single-cell-rna-seq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Single-cell trajectories reconstruction, exploration and mapping of omics data with STREAM</title>
+      <link>https://huidongchen.github.io/publication/chen-h-nature-communications-2019/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huidongchen.github.io/publication/chen-h-nature-communications-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping human pluripotent stem cell differentiation pathways using high throughput single-cell RNA-sequencing</title>
+      <link>https://huidongchen.github.io/publication/han-x-genome-biology-2018/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huidongchen.github.io/publication/han-x-genome-biology-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GiniClust: detecting rare cell types from single-cell gene expression data with Gini index</title>
+      <link>https://huidongchen.github.io/publication/jiang-l-genome-biology-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://huidongchen.github.io/publication/jiang-l-genome-biology-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
