@@ -7,17 +7,62 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Huidong Chen {year}</copyright>
-    <lastBuildDate>Tue, 23 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://huidongchen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Benchmarking</title>
+      <link>https://huidongchen.github.io/tags/benchmarking/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huidongchen.github.io/tags/benchmarking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>https://huidongchen.github.io/tags/clustering/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huidongchen.github.io/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Epigenomic</title>
       <link>https://huidongchen.github.io/tags/epigenomic/</link>
-      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://huidongchen.github.io/tags/epigenomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featurization</title>
+      <link>https://huidongchen.github.io/tags/featurization/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huidongchen.github.io/tags/featurization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell ATAC-seq</title>
+      <link>https://huidongchen.github.io/tags/single-cell-atac-seq/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huidongchen.github.io/tags/single-cell-atac-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://huidongchen.github.io/tags/visualization/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huidongchen.github.io/tags/visualization/</guid>
       <description></description>
     </item>
     
@@ -27,15 +72,6 @@
       <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://huidongchen.github.io/tags/principal-graph/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single-cell ATAC-seq</title>
-      <link>https://huidongchen.github.io/tags/single-cell-atac-seq/</link>
-      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://huidongchen.github.io/tags/single-cell-atac-seq/</guid>
       <description></description>
     </item>
     
@@ -54,15 +90,6 @@
       <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://huidongchen.github.io/tags/trajectory-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualization</title>
-      <link>https://huidongchen.github.io/tags/visualization/</link>
-      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://huidongchen.github.io/tags/visualization/</guid>
       <description></description>
     </item>
     
@@ -126,15 +153,6 @@
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://huidongchen.github.io/tags/primed-human-pluripotent-stem-cell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clustering</title>
-      <link>https://huidongchen.github.io/tags/clustering/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://huidongchen.github.io/tags/clustering/</guid>
       <description></description>
     </item>
     
