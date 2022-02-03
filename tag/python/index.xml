@@ -5,12 +5,20 @@
     <link>https://huidongchen.github.io/tag/python/</link>
       <atom:link href="https://huidongchen.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Huidong Chen</copyright><lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Huidong Chen</copyright><lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://huidongchen.github.io/media/icon_hu5a12190701998c8679bdf0c03db3c928_3117_512x512_fill_lanczos_center_3.png</url>
       <title>Python</title>
       <link>https://huidongchen.github.io/tag/python/</link>
     </image>
+    
+    <item>
+      <title>SIMBA</title>
+      <link>https://huidongchen.github.io/software/simba/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://huidongchen.github.io/software/simba/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>STREAM</title>
@@ -25,14 +33,6 @@
       <link>https://huidongchen.github.io/software/singlecellvr/</link>
       <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://huidongchen.github.io/software/singlecellvr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SIMBA</title>
-      <link>https://huidongchen.github.io/software/simba/</link>
-      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://huidongchen.github.io/software/simba/</guid>
       <description></description>
     </item>
     
