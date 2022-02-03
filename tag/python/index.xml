@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python | Huidong Chen</title>
+    <link>https://huidongchen.github.io/tag/python/</link>
+      <atom:link href="https://huidongchen.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Huidong Chen</copyright><lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://huidongchen.github.io/media/icon_hu5a12190701998c8679bdf0c03db3c928_3117_512x512_fill_lanczos_center_3.png</url>
+      <title>Python</title>
+      <link>https://huidongchen.github.io/tag/python/</link>
+    </image>
+    
+    <item>
+      <title>STREAM</title>
+      <link>https://huidongchen.github.io/software/stream/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://huidongchen.github.io/software/stream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>singlecellVR</title>
+      <link>https://huidongchen.github.io/software/singlecellvr/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://huidongchen.github.io/software/singlecellvr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIMBA</title>
+      <link>https://huidongchen.github.io/software/simba/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://huidongchen.github.io/software/simba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scvr</title>
+      <link>https://huidongchen.github.io/software/scvr/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://huidongchen.github.io/software/scvr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STREAM website</title>
+      <link>https://huidongchen.github.io/software/stream_website/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://huidongchen.github.io/software/stream_website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STREAM ATACseq</title>
+      <link>https://huidongchen.github.io/software/stream_atac/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://huidongchen.github.io/software/stream_atac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GiniClust</title>
+      <link>https://huidongchen.github.io/software/giniclust/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://huidongchen.github.io/software/giniclust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEGATRON (coming soon)</title>
+      <link>https://huidongchen.github.io/software/megatron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://huidongchen.github.io/software/megatron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STREAM2 (coming soon)</title>
+      <link>https://huidongchen.github.io/software/stream2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://huidongchen.github.io/software/stream2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
